@@ -3,7 +3,7 @@
 
 Exploring Twine project, learning/playing with this new software... wondering where this will go and making some sorts of interactive notes based on my understanding of 
 
-[Play Final Death RPG](https://dgapitts.github.io/nausea/)
+[Explore Nausea with Sartre (1938)](https://dgapitts.github.io/nausea/)
 
 
 Credits and Ref:
