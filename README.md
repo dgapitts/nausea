@@ -1,7 +1,10 @@
 ## Nausea - Sartre - 1938
 
 
-Exploring Twine project, learning/playing with this new software... wondering where this will go and making some sorts of interactive notes based on my understanding of 
+Exploring Twine project, learning/playing with this new software:
+* wondering where this will go - getting ideas down and want to link ideas, themes, concepts
+* should be able to embedded graphs and sounds  
+* initial aim is to  making some sorts of interactive notes based on my understanding of this great philosophical novel
 
 [Explore Nausea with Sartre (1938)](https://dgapitts.github.io/nausea/)
 
