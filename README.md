@@ -12,4 +12,7 @@ Exploring Twine project, learning/playing with this new software:
 Credits and Ref:
 * https://en.wikipedia.org/wiki/Twine_(software) 
 * https://en.wikipedia.org/wiki/Jean-Paul_Sartre
-* https://en.wikipedia.org/wiki/Nausea_(novel)
+* https://en.wikipedia.org/wiki/Simone_de_Beauvoir
+* https://en.wikipedia.org/wiki/Nausea_(novel
+
+
