@@ -15,4 +15,6 @@ Credits and Ref:
 * https://en.wikipedia.org/wiki/Simone_de_Beauvoir
 * https://en.wikipedia.org/wiki/Nausea_(novel
 
-
+* https://search.creativecommons.org/
+- "Simone De Beauvoir, painted portrait" by Abode of Chaos is licensed with CC BY 2.0. 
+§
